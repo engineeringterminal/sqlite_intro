@@ -1,0 +1,29 @@
+Michael Phelps|USA
+Usain Bolt|JAM
+"Michael Phelps",USA
+"Usain Bolt",JAM
+"Michael Phelps"
+"Usain Bolt"
+290
+316
+"Michael Phelps","United States",6
+"Katie Ledecky","United States",5
+"Simone Biles","United States",5
+"Emma McKeon",Australia,4
+"Katinka Hosszu",Hungary,4
+"Madeline Dirado","United States",4
+"Nathan Adrian","United States",4
+"Penny Oleksiak",Canada,4
+"Simone Manuel","United States",4
+"Alexandra Raisman","United States",3
+Afghanistan,0,594.3230812,24.208319874299
+Albania,0,3945.217582,21.3371034957796
+Algeria,0,4206.031232,22.8518795434104
+Angola,0,4101.472152,23.5250615528472
+"Antigua and Barbuda",0,13714.73196,22.7442180727486
+Argentina,0,13431.87834,23.6684687687965
+Armenia,0,3489.12769,26.1179351338734
+Australia,0,56310.96299,22.8726098606418
+Austria,0,43774.98517,22.2027912242206
+Azerbaijan,0,5496.34464,23.7293241109638
+10
